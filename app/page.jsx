@@ -1,5 +1,7 @@
+"use client";
 import Image from 'next/image'
 import styles from './page.module.css'
+import AboutButton from './aboutButton'
 
 export default function Home() {
   return (
