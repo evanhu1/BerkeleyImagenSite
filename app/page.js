@@ -9,9 +9,8 @@ export default function Home() {
           className={styles.logo}
           src="/imagenGif.gif"
           alt="Next.js Logo"
-          width={1024}
-          height={365}
-          priority
+          width={1920}
+          height={540}
         />
       </div>
       <div>
